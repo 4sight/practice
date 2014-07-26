@@ -1,5 +1,4 @@
 practice
 ========
 
-My first git
-Wassup wassuuuuup
+My first git!
